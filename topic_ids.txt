@@ -1,0 +1,167 @@
+[en->es] Spanish -> ID: 2
+[en->] Duolingo -> ID: 1
+[en->fr] French -> ID: 147
+[en->ja] Japanese -> ID: 946
+[en->de] German -> ID: 67
+[en->it] Italian -> ID: 519
+[es->en] English -> ID: 217
+[ar->] Duolingo -> ID: 886
+[pt->en] English -> ID: 273
+[ru->en] English -> ID: 821
+[en->ru] Russian -> ID: 920
+[en->pt] Portuguese -> ID: 328
+[en->nb] Norwegian (Bokmål) -> ID: 914
+[es->] Duolingo -> ID: 216
+[en->eo] Esperanto -> ID: 915
+[pl->en] English -> ID: 832
+[vi->en] English -> ID: 896
+[pt->] Duolingo -> ID: 272
+[en->] Troubleshooting -> ID: 647
+[ru->de] German -> ID: 878
+[en->el] Greek -> ID: 936
+[en->pl] Polish -> ID: 922
+[en->ko] Korean -> ID: 950
+[en->dn] Dutch -> ID: 897
+[en->zs] Chinese -> ID: 951
+[es->fr] French -> ID: 873
+[en->sv] Swedish -> ID: 908
+[en->ga] Irish -> ID: 901
+[es->it] Italian -> ID: 903
+[en->hu] Hungarian -> ID: 933
+[fr->it] Italian -> ID: 907
+[fr->en] English -> ID: 652
+[es->pt] Portuguese -> ID: 874
+[tr->en] English -> ID: 837
+[pt->fr] French -> ID: 911
+[fr->de] German -> ID: 919
+[vi->] Duolingo -> ID: 894
+[ru->fr] French -> ID: 926
+[pt->de] German -> ID: 917
+[ar->en] English -> ID: 888
+[de->en] English -> ID: 818
+[es->] Troubleshooting -> ID: 648
+[fr->es] Spanish -> ID: 890
+[ru->] Troubleshooting -> ID: 820
+[en->da] Danish -> ID: 902
+[fr->] Duolingo -> ID: 651
+[pt->es] Spanish -> ID: 910
+[es->de] German -> ID: 889
+[en->he] Hebrew -> ID: 932
+[en->la] Latin -> ID: 967
+[de->es] Spanish -> ID: 916
+[en->tr] Turkish -> ID: 912
+[uk->en] English -> ID: 900
+[pt->] Troubleshooting -> ID: 649
+[en->fi] Finnish -> ID: 972
+[en->ar] Arabic -> ID: 966
+[en->kl] Klingon -> ID: 953
+[hu->en] English -> ID: 836
+[zs->] Troubleshooting -> ID: 826
+[it->en] English -> ID: 456
+[de->fr] French -> ID: 879
+[en->cy] Welsh -> ID: 924
+[en->ro] Romanian -> ID: 938
+[en->vi] Vietnamese -> ID: 931
+[ko->] Duolingo -> ID: 891
+[fr->] Troubleshooting -> ID: 653
+[pt->it] Italian -> ID: 947
+[en->] Educators -> ID: 909
+[el->en] English -> ID: 885
+[tr->] Duolingo -> ID: 828
+[de->] Troubleshooting -> ID: 817
+[de->] Duolingo -> ID: 816
+[en->gd] Scottish Gaelic -> ID: 969
+[en->cs] Czech -> ID: 949
+[en->sw] Swahili -> ID: 942
+[zs->] Duolingo -> ID: 822
+[en->id] Indonesian -> ID: 958
+[en->hi] Hindi -> ID: 930
+[ru->es] Spanish -> ID: 928
+[ar->] Troubleshooting -> ID: 887
+[ja->en] English -> ID: 839
+[it->] Duolingo -> ID: 515
+[es->ru] Russian -> ID: 957
+[en->uk] Ukrainian -> ID: 913
+[dn->en] English -> ID: 838
+[es->ca] Catalan -> ID: 921
+[fr->pt] Portuguese -> ID: 941
+[hu->] Duolingo -> ID: 825
+[es->gn] Guarani (Jopará) -> ID: 935
+[it->] Troubleshooting -> ID: 650
+[en->hw] Hawaiian -> ID: 960
+[pl->] Duolingo -> ID: 823
+[es->sv] Swedish -> ID: 970
+[ar->fr] French -> ID: 925
+[cs->] Duolingo -> ID: 904
+[cs->en] English -> ID: 906
+[zs->en] English -> ID: 833
+[id->en] English -> ID: 842
+[it->fr] French -> ID: 918
+[ru->] Duolingo -> ID: 819
+[en->hv] High Valyrian -> ID: 948
+[ro->en] English -> ID: 877
+[it->de] German -> ID: 940
+[es->eo] Esperanto -> ID: 937
+[it->es] Spanish -> ID: 959
+[ko->en] English -> ID: 893
+[tr->de] German -> ID: 923
+[ja->] Troubleshooting -> ID: 835
+[pl->] Troubleshooting -> ID: 827
+[hu->] Troubleshooting -> ID: 830
+[id->] Duolingo -> ID: 840
+[cs->] Troubleshooting -> ID: 905
+[en->nv] Navajo -> ID: 961
+[en->yi] Yiddish -> ID: 979
+[ro->] Duolingo -> ID: 875
+[ar->de] German -> ID: 929
+[dn->] Troubleshooting -> ID: 829
+[ko->] Troubleshooting -> ID: 892
+[dn->] Duolingo -> ID: 824
+[tr->ru] Russian -> ID: 952
+[hi->en] English -> ID: 882
+[pt->eo] Esperanto -> ID: 956
+[dn->de] German -> ID: 971
+[zs->es] Spanish -> ID: 934
+[uk->] Troubleshooting -> ID: 899
+[uk->] Duolingo -> ID: 898
+[vi->] Troubleshooting -> ID: 895
+[ro->] Troubleshooting -> ID: 876
+[fr->eo] Esperanto -> ID: 973
+[el->] Duolingo -> ID: 883
+[dn->fr] French -> ID: 974
+[zs->ko] Korean -> ID: 964
+[en->es] People PEOPLE -> ID: 26
+[id->] Troubleshooting -> ID: 841
+[ja->zs] Chinese -> ID: 968
+[ar->sv] Swedish -> ID: 927
+[ja->ko] Korean -> ID: 976
+[en->es] Food FOOD -> ID: 13
+[hi->] Troubleshooting -> ID: 881
+[hi->] Duolingo -> ID: 880
+[vi->zs] Chinese -> ID: 975
+[zs->fr] French -> ID: 962
+[hu->de] German -> ID: 978
+[en->ht] Haitian Creole -> ID: 981
+[en->es] Politics POLITICS -> ID: 4
+[ja->fr] French -> ID: 980
+[en->it] Colors COLORS -> ID: 530
+[en->fr] Verbs: Gerund VERBS-GERUND -> ID: 149
+[en->es] Verbs: Haber VERBS-HABER -> ID: 3
+[th->] Troubleshooting -> ID: 944
+[th->] Duolingo -> ID: 943
+[en->de] Verbs: Conditional 2 VERBS-CONDITIONAL2 -> ID: 69
+[en->es] Animals ANIMALS -> ID: 60
+[zs->it] Italian -> ID: 963
+[en->es] Sizes SIZES -> ID: 6
+[en->es] Possessives POSSESSIVES -> ID: 5
+[en->es] Objects OBJECTS -> ID: 20
+[en->es] Verbs: Gerund VERBS-GERUND -> ID: 19
+[zs->zc] Chinese (Cantonese) -> ID: 977
+[en->es] Abstract Objects 1 ABSTRACT-OBJECTS -> ID: 7
+[en->es] Questions QUESTIONS -> ID: 61
+[en->es] Dates and Time DATES-AND-TIME -> ID: 59
+[it->en] Questions QUESTIONS -> ID: 500
+[en->es] Medical MEDICAL -> ID: 45
+[es->en] Verbs: Phrasal Future Tense VERBS-FUTURE-PHRASAL -> ID: 249
+[en->es] Family FAMILY -> ID: 11
+[en->es] Numbers NUMBERS -> ID: 10
